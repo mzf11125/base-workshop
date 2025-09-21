@@ -4,3 +4,9 @@
 [submodule "exercise-sc/rpsgame-contract/lib/openzeppelin-contracts"]
 	path = exercise-sc/rpsgame-contract/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "assignment/tugas/lib/forge-std"]
+	path = assignment/tugas/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "assignment/tugas/lib/openzeppelin-contracts"]
+	path = assignment/tugas/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
