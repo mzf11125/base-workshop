@@ -1,0 +1,20 @@
+{
+  "frame": {
+    "name": "Ez",
+    "version": "1",
+    "iconUrl": "https://https://base-workshop-ashy.vercel.app//icon.png",
+    "homeUrl": "https://https://base-workshop-ashy.vercel.app/",
+    "imageUrl": "https://https://base-workshop-ashy.vercel.app//image.png",
+    "splashImageUrl": "https://https://base-workshop-ashy.vercel.app//splash.png",
+    "splashBackgroundColor": "#6200EA",
+    "webhookUrl": "https://https://base-workshop-ashy.vercel.app//api/webhook",
+    "subtitle": "Ez",
+    "description": "Ez",
+    "primaryCategory": "games"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEzNTYxMjQsInR5cGUiOiJhdXRoIiwia2V5IjoiMHgwYkU2NDg4YWE5M0NlNmRGMTRkMDdFNWM0YzhkYUVFRTQ0NzA1QmY1In0",
+    "payload": "eyJkb21haW4iOiJodHRwczovL2Jhc2Utd29ya3Nob3AtYXNoeS52ZXJjZWwuYXBwLyJ9",
+    "signature": "0Ql1i2zdikIITUdf+1UwS++n6VRiTJCRhxKzdTV0SKVbENMgeXGi2g816mP1awoXc4YUWei5G4Dx2dDS9+5XeBw="
+  }
+}
