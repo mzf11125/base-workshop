@@ -10,30 +10,30 @@ const ROOT_URL =
  */
 export const minikitConfig = {
   accountAssociation: {
-    header: "eyJmaWQiOjEzNTYxMjQsInR5cGUiOiJhdXRoIiwia2V5IjoiMHgwYkU2NDg4YWE5M0NlNmRGMTRkMDdFNWM0YzhkYUVFRTQ0NzA1QmY1In0",
-    payload: "eyJkb21haW4iOiJodHRwczovL2Jhc2Utd29ya3Nob3AtYXNoeS52ZXJjZWwuYXBwLyJ9",
-    signature: "0Ql1i2zdikIITUdf+1UwS++n6VRiTJCRhxKzdTV0SKVbENMgeXGi2g816mP1awoXc4YUWei5G4Dx2dDS9+5XeBw=",
+    header: "eyJmaWQiOjEzNTYxMjQsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg2RDY4MzA2RDZFNDgxOTExMGE3OEU5MmY4ODEwY2I3NDc1NTk1N0U5In0",
+    payload: "eyJkb21haW4iOiJiYXNlLXdvcmtzaG9wLWFzaHkudmVyY2VsLmFwcCJ9",
+    signature: "MHhjN2Q2ZjZjMjBlZDc4OWE3OGNjYjIzNjlmZjg5ZTRlNTc4Mjg0YjFkZDE3NTViZDA3ZjIyMzY5MDE5ZWM2NTY5MGU1M2QzNThhMjUxZmE3ZTZhY2U3NDNmNDhkZjE5YmE0OWJiYzU4MDZmOGExNThjYTY1OWU0Yjk1YWM5NTk2ZjFj",
   },
   baseBuilder: {
     "allowedAddresses": ["0x451b9Bb53c8C78B1095616E6e05aA3F2dD04fB32"]
   },
   miniapp: {
     version: "1",
-    name: "Ez",
-    subtitle: "Ez",
-    description: "Ez",
+    name: "zidan2",
+    subtitle: "",
+    description: "",
     screenshotUrls: [],
     iconUrl: `${ROOT_URL}/icon.png`,
     splashImageUrl: `${ROOT_URL}/splash.png`,
-    splashBackgroundColor: "#6200EA",
+    splashBackgroundColor: "#000000",
     homeUrl: ROOT_URL,
     webhookUrl: `${ROOT_URL}/api/webhook`,
-    primaryCategory: "games",
+    primaryCategory: "utility",
     tags: ["example"],
     heroImageUrl: `${ROOT_URL}/hero.png`,
-    tagline: "Ez",
-    ogTitle: "Ez",
-    ogDescription: "Ez",
+    tagline: "",
+    ogTitle: "",
+    ogDescription: "",
     ogImageUrl: `${ROOT_URL}/hero.png`,
   },
 } as const;
