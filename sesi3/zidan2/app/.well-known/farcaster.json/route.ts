@@ -17,6 +17,6 @@ export async function GET() {
       primaryCategory: minikitConfig.miniapp.primaryCategory,
     },
     accountAssociation: minikitConfig.accountAssociation,
-    baseBuilder: "minikitConfig.baseBuilder,"
+    baseBuilder: minikitConfig.baseBuilder,
   });
 }
